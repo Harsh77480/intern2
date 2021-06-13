@@ -1,17 +1,16 @@
-<!-- font-family:Ronnia Light Light,Helvetica,Arial,sans-serif -->
- <!doctype html>
+  <!doctype html>
 <!--[if lt IE 7]><html class="no-js ie ie6 lt-ie10 lt-ie9 lt-ie8 lt-ie7" lang="en-AU"> <![endif]-->
 <!--[if IE 7]><html class="no-js ie ie7 lt-ie10 lt-ie9 lt-ie8" lang="en-AU"> <![endif]-->
 <!--[if IE 8]><html class="no-js ie ie8 lt-ie10 lt-ie9" lang="en-AU"> <![endif]-->
 <!--[if IE 9]><html class="no-js ie ie8 ie9 lt-ie10" lang="en-AU"> <![endif]-->
 <!--[if gt IE 9]><!--><html class="no-js" lang="en-AU"> <!--<![endif]-->
 
-<!-- Mirrored from DynamicElectric Power.com.au/ by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 09 Jun 2021 06:19:37 GMT -->
+<!-- Mirrored from electricsuper.com.au/ by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 09 Jun 2021 06:19:37 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 <head>
   <meta charset="UTF-8" />
   <title>
-          DynamicElectric Power
+          ElectricSuper
       </title>
 
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -78,19 +77,19 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	<link rel="canonical" href="index.html" />
 	<meta property="og:locale" content="en_US" />
 	<meta property="og:type" content="website" />
-	<meta property="og:title" content="DynamicElectric Power" />
+	<meta property="og:title" content="ElectricSuper" />
 	<meta property="og:description" content="We are a not-for-profit industry superannuation scheme offered exclusively to employees in the electricity supply industry and their spouses" />
-	<meta property="og:url" content="https://DynamicElectric Power.com.au/" />
-	<meta property="og:site_name" content="DynamicElectric Power" />
+	<meta property="og:url" content="https://electricsuper.com.au/" />
+	<meta property="og:site_name" content="ElectricSuper" />
 	<meta property="article:modified_time" content="2021-03-11T23:53:16+00:00" />
 	<meta name="twitter:card" content="summary_large_image" />
-	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://DynamicElectric Power.com.au/#organization","name":"Electricity Industry Superannuation Scheme","url":"https://DynamicElectric Power.com.au/","sameAs":[],"logo":{"@type":"ImageObject","@id":"https://DynamicElectric Power.com.au/#logo","inLanguage":"en-AU","url":"https://DynamicElectric Power.com.au/app/uploads/2019/04/eiss-logo-blue.png","contentUrl":"https://DynamicElectric Power.com.au/app/uploads/2019/04/eiss-logo-blue.png","width":424,"height":335,"caption":"Electricity Industry Superannuation Scheme"},"image":{"@id":"https://DynamicElectric Power.com.au/#logo"}},{"@type":"WebSite","@id":"https://DynamicElectric Power.com.au/#website","url":"https://DynamicElectric Power.com.au/","name":"EISS","description":"Your super fund for life","publisher":{"@id":"https://DynamicElectric Power.com.au/#organization"},"potentialAction":[{"@type":"SearchAction","target":"https://DynamicElectric Power.com.au/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"en-AU"},{"@type":"WebPage","@id":"https://DynamicElectric Power.com.au/#webpage","url":"https://DynamicElectric Power.com.au/","name":"DynamicElectric Power","isPartOf":{"@id":"https://DynamicElectric Power.com.au/#website"},"about":{"@id":"https://DynamicElectric Power.com.au/#organization"},"datePublished":"2018-11-06T00:31:20+00:00","dateModified":"2021-03-11T23:53:16+00:00","description":"We are a not-for-profit industry superannuation scheme offered exclusively to employees in the electricity supply industry and their spouses","breadcrumb":{"@id":"https://DynamicElectric Power.com.au/#breadcrumb"},"inLanguage":"en-AU","potentialAction":[{"@type":"ReadAction","target":["https://DynamicElectric Power.com.au/"]}]},{"@type":"BreadcrumbList","@id":"https://DynamicElectric Power.com.au/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https://DynamicElectric Power.com.au/#webpage"}}]}]}</script>
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://electricsuper.com.au/#organization","name":"Electricity Industry Superannuation Scheme","url":"https://electricsuper.com.au/","sameAs":[],"logo":{"@type":"ImageObject","@id":"https://electricsuper.com.au/#logo","inLanguage":"en-AU","url":"https://electricsuper.com.au/app/uploads/2019/04/eiss-logo-blue.png","contentUrl":"https://electricsuper.com.au/app/uploads/2019/04/eiss-logo-blue.png","width":424,"height":335,"caption":"Electricity Industry Superannuation Scheme"},"image":{"@id":"https://electricsuper.com.au/#logo"}},{"@type":"WebSite","@id":"https://electricsuper.com.au/#website","url":"https://electricsuper.com.au/","name":"EISS","description":"Your super fund for life","publisher":{"@id":"https://electricsuper.com.au/#organization"},"potentialAction":[{"@type":"SearchAction","target":"https://electricsuper.com.au/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"en-AU"},{"@type":"WebPage","@id":"https://electricsuper.com.au/#webpage","url":"https://electricsuper.com.au/","name":"ElectricSuper","isPartOf":{"@id":"https://electricsuper.com.au/#website"},"about":{"@id":"https://electricsuper.com.au/#organization"},"datePublished":"2018-11-06T00:31:20+00:00","dateModified":"2021-03-11T23:53:16+00:00","description":"We are a not-for-profit industry superannuation scheme offered exclusively to employees in the electricity supply industry and their spouses","breadcrumb":{"@id":"https://electricsuper.com.au/#breadcrumb"},"inLanguage":"en-AU","potentialAction":[{"@type":"ReadAction","target":["https://electricsuper.com.au/"]}]},{"@type":"BreadcrumbList","@id":"https://electricsuper.com.au/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https://electricsuper.com.au/#webpage"}}]}]}</script>
 	<!-- / Yoast SEO plugin. -->
 
 
 <link rel='dns-prefetch' href='http://cdnjs.cloudflare.com/' />
 <link rel='dns-prefetch' href='http://fonts.googleapis.com/' />
-<link rel="alternate" type="application/rss+xml" title="DynamicElectric Power &raquo; Feed" href="feed/index.html" />
+<link rel="alternate" type="application/rss+xml" title="ElectricSuper &raquo; Feed" href="feed/index.html" />
 <link rel="stylesheet" href="wp/wp-includes/css/dist/block-library/style.min9f31.css?ver=5.7.2">
 <link rel="stylesheet" href="app/plugins/your-chat/dist/styles/styles.min9f31.css?ver=5.7.2">
 <link rel="stylesheet" href="app/themes/tde/style9f31.css?ver=5.7.2">
@@ -100,7 +99,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <link rel="stylesheet" href="app/themes/tde/dist/css/main.mina65c.css?ver=1623032789">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.4/jquery.min.js?ver=5.7.2" id="jquery-js"></script>
 <script src="app/themes/tde/assets/js/vendor/modernizr9f31.js?ver=5.7.2" id="modernizr-js"></script>
-      <script>window.your_chat = {"settings":{"modes":{"production":1,"development":2},"mode":1},"pluginurl":"https:\/\/DynamicElectric Power.com.au\/app\/plugins\/your-chat\/","ajaxurl":"https:\/\/DynamicElectric Power.com.au\/wp\/wp-admin\/admin-ajax.php","assetsurl":"https:\/\/DynamicElectric Power.com.au\/app\/plugins\/your-chat\/assets","disturl":"https:\/\/DynamicElectric Power.com.au\/app\/plugins\/your-chat\/dist","ajax_nonce":"ab530a56cf"}</script>
+      <script>window.your_chat = {"settings":{"modes":{"production":1,"development":2},"mode":1},"pluginurl":"https:\/\/electricsuper.com.au\/app\/plugins\/your-chat\/","ajaxurl":"https:\/\/electricsuper.com.au\/wp\/wp-admin\/admin-ajax.php","assetsurl":"https:\/\/electricsuper.com.au\/app\/plugins\/your-chat\/assets","disturl":"https:\/\/electricsuper.com.au\/app\/plugins\/your-chat\/dist","ajax_nonce":"ab530a56cf"}</script>
       <script>
         if ( window.jQuery ) {
           window.jQuery( document ).ready( function() {
@@ -116,7 +115,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       </style>
       <script type="text/javascript">window.ajaxurl = 'wp/wp-admin/admin-ajax.html';</script>
 </head>
-<body class="home page-template page-template-template-home page-template-template-home-php page" >
+<body class="home page-template page-template-template-home page-template-template-home-php page">
   <!-- inside marketing -->
 <!-- got marketing -->
           <!-- Additional Marketing Tag (GTM Body) -->
@@ -138,21 +137,20 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     catch(e){window.attachEvent("onload", $buo_f)}
   </script>
 
-  <div class="outer-container" >      
-    <header id="desktop-header" class="desktop-navigation" role="complementary" aria-labelledby="desktop-header" style="background-color: #000000;">
-  <div class="standard-menu" style="background-color: white;">
+  <div class="outer-container">      <header id="desktop-header" class="desktop-navigation" role="complementary" aria-labelledby="desktop-header">
+  <div class="standard-menu">
   <div class="row">
     <div class="logo column shrink">
-      <!-- <a class="logo-dark" href="index.html"><img src="app/themes/tde/assets/img/logo/eiss-logo-blue-v2.png" alt="DynamicElectric Power"></a> -->
-      <a class="logo-dark" href="index.html"><img src="img/img.jpeg" alt="DynamicElectricPower"  > <h4 >DynamicElectric Power</h4> </a>
-      <a class="logo-light" href="index.html"><img src="img/img.jpeg" alt="DynamicElectricPower" > <h4 >DynamicElectric Power</h4> </a>
-      <!-- <a class="logo-light" href="index.html"><img src="app/themes/tde/assets/img/logo/eiss-logo-white-v2.png" alt="DynamicElectric Power></a> -->
+      <!-- <a class="logo-dark" href="index.html"><img src="app/themes/tde/assets/img/logo/eiss-logo-blue-v2.png" alt="ElectricSuper"></a> -->
+      <a class="logo-dark" href="index.html"><img src="img/img.jpeg" alt="DynamicElectricPower"  > <h4 >Dynamic Power</h4> </a>
+      <a class="logo-light" href="index.html"><img src="img/img.jpeg" alt="DynamicElectricPower" > <h4 style="color: aliceblue;">Dynamic Power</h4> </a>
+      <!-- <a class="logo-light" href="index.html"><img src="app/themes/tde/assets/img/logo/eiss-logo-white-v2.png" alt="ElectricSuper></a> -->
     </div>
     <div class="column menu-wrap">
       <ul class="menu-icon-list">
     <li class="menu-item menu-icon menu-list-icon phone">
     <div>
-      <a href="tel:1300 307 844" class="button" style="background-color: #000000;">
+      <a href="tel:1300 307 844" class="button" >
         <span class="icon icon-phone"></span>
         <span>1300 307 844</span>
       </a>
@@ -160,17 +158,17 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   </li>
 
   <li class="menu-item menu-icon menu-list-icon book-a-meeting">
-    <div >
-      <a href="meet-with-us/index.html" class="button" style="background-color: #000000;" >
+    <div>
+      <a href="meet-with-us/index.html" class="button" >
         <span class="icon icon-calendar"></span>
-        <span >Meet with us</span>
+        <span>Meet with us</span>
       </a>
     </div>
   </li>
 
   <li class="menu-item menu-icon menu-list-icon member-login">
     <div>
-      <a href="https://www.youraccountonline.com/form/login.html?login_uri=EISS" target="_blank" class="button" style="background-color: #000000;">
+      <a href="https://www.youraccountonline.com/form/login.html?login_uri=EISS" target="_blank" class="button" >
         <span class="icon icon-user-circle"></span>
         <span>Member Login</span>
       </a>
@@ -180,16 +178,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 <ul class="menu-list">
       
-
-
-
-  <!-- Changed the class name of all li menu-item has has-child -->
-
-
-    <!-- <li class="menu-item has-child"  > -->
-    <li class="menu-item has-chil"  >
+    <li class="menu-item has-child">
   <!-- <a href="super/index.html">Super</a> -->
-  <a href="super/index.html" style="color: #000000;">Home Page</a>
+  <a href="super/index.html">Home Page</a>
         <ul class="sub-menu-list dropdown-menu">
     <div class="row">
       <div class="column">
@@ -260,14 +251,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                               </ul>
                       </li>
               </div>
-    </div> -->
+    </div>
   </ul>
     </li>
       
-    <!-- <li class="menu-item has-child"> -->
-    <li class="menu-item has-chil">
+    <li class="menu-item has-child">
   <!-- <a href="retirement/index.html">Retirement</a> -->
-  <a href="retirement/index.html" style="color: #000000;">About Us</a>
+  <a href="retirement/index.html">About Us</a>
         <ul class="sub-menu-list dropdown-menu">
     <div class="row">
       <div class="column">
@@ -309,11 +299,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   </ul>
     </li>
       
-    <li class="menu-item has-chil">
-    <!-- <li class="menu-item has-child"> -->
-
+    <li class="menu-item has-child">
   <!-- <a href="investments/index.html">Investments</a> -->
-  <a href="investments/index.html" style="color: #000000;">Contact Us</ a>
+  <a href="investments/index.html">Contact Us</ a>
         <ul class="sub-menu-list dropdown-menu">
     <div class="row">
       <div class="column">
@@ -337,10 +325,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   </ul>
     </li>
       
-    <li class="menu-item has-chil">
-    <!-- <li class="menu-item has-child"> -->
+    <li class="menu-item has-child">
 <!-- <a href="resources/index.html">Resources</a> -->
-<a href="resources/index.html" style="color: #000000;">Products</a>
+<a href="resources/index.html">Products</a>
         <ul class="sub-menu-list dropdown-menu">
     <div class="row">
       <div class="column">
@@ -361,7 +348,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                       </li>
                   
           <li class="sub-menu-item">
-            <a href="resources/DynamicElectric Power-library/index.html" target="">DynamicElectric Power library</a>
+            <a href="resources/electricsuper-library/index.html" target="">ElectricSuper library</a>
 
                       </li>
               </div>
@@ -369,10 +356,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   </ul>
     </li>
       
-    <li class="menu-item has-chil">
-    <!-- <li class="menu-item has-child"> -->
+    <li class="menu-item has-child">
 <!-- <a href="about-us/index.html">About</a> -->
-<a href="about-us/index.html" style="color: #000000;">Sales and Services</a>
+<a href="about-us/index.html">Sales and Services</a>
         <ul class="sub-menu-list dropdown-menu">
     <div class="row">
       <div class="column">
@@ -396,12 +382,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   </ul>
     </li>
       
-    <!-- <li class="menu-item "> -->
-      <!-- <a href="contact/index.html">Contact</a>  -->
-      <!-- <a href="contact/index.html">Page</a> -->
-          <!-- </li> -->
+    <li class="menu-item ">
+      <!-- <a href="contact/index.html">Contact</a> -->
+      <a href="contact/index.html">Page</a>
+          </li>
 
-  <li class="menu-item " style="color: #000000;" >
+  <li class="menu-item ">
             <!-- <a href="contact/index.html">Contact</a> -->
             <a href="contact/index.html">Enqury US</a>
     </li>
@@ -417,7 +403,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <div class="sub-menu">
       <div class="row">
         <div class="column search-panel">
-          <form action="https://DynamicElectric Power.com.au/" autocomplete="off" method="get">
+          <form action="https://electricsuper.com.au/" autocomplete="off" method="get">
             <input type="text" name="s" tabindex="-1" aria-label="search box" placeholder="Enter keyword to search">
             <div role="button" aria-label="search">
               <input type="submit">
@@ -465,16 +451,16 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <div class="standard-menu">
     <div class="row">
       <div class="logo column shrink">
-        <img src="app/themes/tde/assets/img/logo/eiss-logo-blue-v2.png" alt="DynamicElectric Power">
+        <img src="app/themes/tde/assets/img/logo/eiss-logo-blue-v2.png" alt="ElectricSuper">
       </div>
     </div>
   </div>
 
 </header>    <header id="mobile-header" class="mobile-navigation" role="complementary" aria-labelledby="mobile-header">
-  <div class="minimal navigation row" style="background-color: #000000;">
+  <div class="minimal navigation row">
   <div class="minimal-menu column">
     <div class="logo">
-      <a class="" href="index.html">  <h6 style="color: aliceblue;"> DynamicElectric Power </h6> </a>
+      <a class="" href="index.html">  <h6 style="color: aliceblue;"> Dynamic Power </h6> </a>
     </div>
     <ul class="menu-list">
       <li class="menu-item menu-icon menu-item-has-children">
@@ -605,7 +591,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <a href="resources/faqs/index.html">FAQs</a>
                   </li>
                                   <li class="menu-item">
-                    <a href="resources/DynamicElectric Power-library/index.html">DynamicElectric Power library</a>
+                    <a href="resources/electricsuper-library/index.html">ElectricSuper library</a>
                   </li>
                 
                             </li>
@@ -680,14 +666,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </div>      </li>
     </ul>
   </div>
-</div></header>  
-
-<main id="main">
+</div></header>  <main id="main">
     
   <div class="main-content content-blocks">
         
       
-<div class="hero hero-carousel" data-equalizer="hero-form" data-equalize-on="large" style="background-color: #000000;">
+<div class="hero hero-carousel" data-equalizer="hero-form" data-equalize-on="large">
   <div class="slideshow slideshow-full-screen">
     <div class="slideshow-slides">
               <div class="slideshow-slide">
@@ -704,7 +688,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                               <div class="slideshow-slide-body">
                   <div class="slideshow-slide-content ">
                     <h1>Welcome to Dynamic Electric Power</h1>
-<p>DynamicElectric Power is a profit-to-members industry super fund supporting Australian workers involved in the supply of electricity.<br />
+<p>ElectricSuper is a profit-to-members industry super fund supporting Australian workers involved in the supply of electricity.<br />
 Click the links below to find out how we can support you.<br />
 <a class="button medium" role="button" href="#video" aria-label="Button">Watch our welcome video</a> <a class="button medium" role="button" href="members/my-journey-become-a-member/index.html" aria-label="Button">Become a member</a></p>
 
@@ -842,8 +826,8 @@ Click the links below to find out how we can support you.<br />
             </a>
           
           <div class="text">
-            <p>DynamicElectric Power is a profit-to-members industry super fund supporting Australian workers involved in the supply of electricity.</p>
-<p>Watch the video (&lt;1 minute) to find out more about DynamicElectric Power or click below to enquire about becoming a member.</p>
+            <p>ElectricSuper is a profit-to-members industry super fund supporting Australian workers involved in the supply of electricity.</p>
+<p>Watch the video (&lt;1 minute) to find out more about ElectricSuper or click below to enquire about becoming a member.</p>
 
 
                           <a role="button"  aria-label="Button" class="button medium" href="super/my-journey-become-a-member/index.html" >Become a member</a>
@@ -1102,7 +1086,7 @@ Click the links below to find out how we can support you.<br />
       <footer class="footer footer-simple" style="display: none">
   <div class="footer-menu">
     <div>
-      <img alt="DynamicElectric Power" class="logo" src="app/themes/tde/assets/img/logo.svg">
+      <img alt="ElectricSuper" class="logo" src="app/themes/tde/assets/img/logo.svg">
     </div>
     <div class="large-text-right">
       <ul class="menu">
@@ -1281,7 +1265,7 @@ Click the links below to find out how we can support you.<br />
 
                           </li>
                       <li class="">
-              <a href="resources/DynamicElectric Power-library/index.html">DynamicElectric Power library</a>
+              <a href="resources/electricsuper-library/index.html">ElectricSuper library</a>
 
                           </li>
                   </ul>
@@ -1348,7 +1332,7 @@ Click the links below to find out how we can support you.<br />
         <ul class="list-none footer-list">
                     
             <li>
-              <a target="_blank" href="https://www.linkedin.com/company/DynamicElectric Power" aria-label="facebook">
+              <a target="_blank" href="https://www.linkedin.com/company/electricsuper" aria-label="facebook">
                                   <!-- <img src="app/uploads/2021/04/LI-Logo.png"/> -->
                               </a>
             </li>
@@ -1410,7 +1394,7 @@ Click the links below to find out how we can support you.<br />
 
   <div class="row align-middle">
     <div class="column tiny-12 large-8 sub-footer">
-      <span>&copy; Copyright DynamicElectric Power 2021</span>
+      <span>&copy; Copyright ElectricSuper 2021</span>
               |
         <a href="contact/index.html">
           Contact Us
@@ -1438,7 +1422,7 @@ Click the links below to find out how we can support you.<br />
 
   <div class="row align-middle">
     <div class="column tiny-12 large-8 sub-footer">
-      <span>&copy; Copyright DynamicElectric Power 2021</span>
+      <span>&copy; Copyright ElectricSuper 2021</span>
       <span class="icon icon-phone"></span>
       <span>1300 307 844</span>
     </div>
@@ -1477,5 +1461,5 @@ Click the links below to find out how we can support you.<br />
   <!-- HEALTHCHECK_CLOSING_BODY -->
 </body>
 
-<!-- Mirrored from DynamicElectric Power.com.au/ by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 09 Jun 2021 06:20:53 GMT -->
+<!-- Mirrored from electricsuper.com.au/ by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 09 Jun 2021 06:20:53 GMT -->
 </html>
