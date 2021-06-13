@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@300&display=swap');
+
 :root {
     --red: red;
 }
@@ -2276,7 +2278,7 @@ html {
 body {
     padding: 0;
     margin: 0;
-    font-family: Quicksand, sans-serif;
+    font-family: 'Open Sans Condensed', sans-serif;
     font-weight: 400;
     line-height: 30px;
     background: #fefefe;
@@ -2294,7 +2296,7 @@ code,
 kbd {
     background-color: #e6e6e6;
     color: #0a0a0a;
-    font-family: Quicksand, monospace
+    font-family: 'Open Sans Condensed', monospace
 }
 
 select {
@@ -7894,7 +7896,7 @@ h4,
 h5,
 h6,
 table th {
-    font-family: Quicksand, sans-serif
+    font-family: 'Open Sans Condensed', sans-serif
 }
 
 .h1,
@@ -8515,7 +8517,7 @@ tbody th {
         padding: 2.8125rem;
         font-weight: 700;
         font-size: 1.125rem;
-        font-family: Quicksand, sans-serif
+        font-family: ''Open Sans Condensed'', sans-serif
     }
 
     table.stack tr {
@@ -9072,7 +9074,7 @@ table.is-collapsable.is-collapsed thead[data-label]::before {
     padding: 2.8125rem;
     font-weight: 700;
     font-size: 1.125rem;
-    font-family: Quicksand, sans-serif
+    font-family: 'Open Sans Condensed', sans-serif
 }
 
 table.is-collapsable.is-collapsed thead::after {
@@ -9118,7 +9120,7 @@ table.is-collapsable.is-collapsed thead::after {
         padding: 2.8125rem;
         font-weight: 700;
         font-size: 1.125rem;
-        font-family: Quicksand, sans-serif
+        font-family: 'Open Sans Condensed', sans-serif
     }
 
     table.stack-tiny tr {
@@ -9575,7 +9577,7 @@ table.is-collapsable.is-collapsed thead::after {
         padding: 2.8125rem;
         font-weight: 700;
         font-size: 1.125rem;
-        font-family: Quicksand, sans-serif
+        font-family: 'Open Sans Condensed', sans-serif
     }
 
     table.stack-small tr {
@@ -10032,7 +10034,7 @@ table.is-collapsable.is-collapsed thead::after {
         padding: 2.8125rem;
         font-weight: 700;
         font-size: 1.125rem;
-        font-family: Quicksand, sans-serif
+        font-family: 'Open Sans Condensed', sans-serif
     }
 
     table.stack-medium tr {
@@ -10489,7 +10491,7 @@ table.is-collapsable.is-collapsed thead::after {
         padding: 2.8125rem;
         font-weight: 700;
         font-size: 1.125rem;
-        font-family: Quicksand, sans-serif
+        font-family: 'Open Sans Condensed', sans-serif
     }
 
     table.stack-large tr {
@@ -10946,7 +10948,7 @@ table.is-collapsable.is-collapsed thead::after {
         padding: 2.8125rem;
         font-weight: 700;
         font-size: 1.125rem;
-        font-family: Quicksand, sans-serif
+        font-family: 'Open Sans Condensed', sans-serif
     }
 
     table.stack-xlarge tr {
@@ -11403,7 +11405,7 @@ table.is-collapsable.is-collapsed thead::after {
         padding: 2.8125rem;
         font-weight: 700;
         font-size: 1.125rem;
-        font-family: Quicksand, sans-serif
+        font-family: 'Open Sans Condensed', sans-serif
     }
 
     table.stack-xxlarge tr {
@@ -11841,7 +11843,7 @@ table.stack-xxxlarge thead[data-label]::before {
     background: var(--red);
     color: #fefefe;
     font-size: 1.125rem;
-    font-family: Quicksand, sans-serif;
+    font-family: 'Open Sans Condensed', sans-serif;
     font-weight: 700
 }
 
@@ -12873,7 +12875,7 @@ p {
     margin: 0;
     background-color: var(--red);
     color: #fefefe;
-    font-family: Quicksand, sans-serif;
+    font-family: 'Open Sans Condensed', sans-serif;
     font-weight: 400;
     text-shadow: none;
     font-size: 12.8px;
@@ -19934,7 +19936,7 @@ header .fullscreen-wrap.has_promotion .promotion .button {
 
 header .fullscreen-wrap.has_promotion .promotion p,
 header .fullscreen-wrap.has_promotion .promotion ul li {
-    font-family: Quicksand, sans-serif;
+    font-family: 'Open Sans Condensed', sans-serif;
     color: #fefefe;
     font-size: .875rem;
     text-align: left;
@@ -21923,7 +21925,7 @@ form div.wpcf7-validation-errors {
 }
 
 .breadcrumbs {
-    font-family: Quicksand;
+    font-family: 'Open Sans Condensed';
     position: relative;
     z-index: 2;
     padding-left: 10px;
@@ -25669,12 +25671,12 @@ body.contact-us .contact-form {
 }
 
 .content-block-gallery-masonry .gallery-category-card .content p {
-    font-family: Quicksand, serif;
+    font-family: 'Open Sans Condensed', serif;
     font-style: italic
 }
 
 .content-block-gallery-masonry .gallery-category-card .content .title {
-    font-family: Quicksand, sans-serif;
+    font-family: 'Open Sans Condensed', sans-serif;
     font-style: normal
 }
 
