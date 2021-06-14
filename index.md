@@ -44,10 +44,15 @@
   <link rel="apple-touch-icon" sizes="144x144"       href="app/themes/tde/assets/img/favicon/apple-icon-144x144.png">
   <link rel="apple-touch-icon" sizes="152x152"       href="app/themes/tde/assets/img/favicon/apple-icon-152x152.png">
   <link rel="apple-touch-icon" sizes="180x180"       href="app/themes/tde/assets/img/favicon/apple-icon-180x180.png">
+<!--   
   <link rel="icon" type="image/png" sizes="192x192"  href="app/themes/tde/assets/img/favicon/android-icon-192x192.png">
   <link rel="icon" type="image/png" sizes="32x32"    href="app/themes/tde/assets/img/favicon/favicon-32x32.png">
   <link rel="icon" type="image/png" sizes="96x96"    href="app/themes/tde/assets/img/favicon/favicon-96x96.png">
-  <link rel="icon" type="image/png" sizes="16x16"    href="app/themes/tde/assets/img/favicon/favicon-16x16.png">
+  <link rel="icon" type="image/png" sizes="16x16"    href="app/themes/tde/assets/img/favicon/favicon-16x16.png"> -->
+	
+	
+  <link rel="icon" type="image/jpeg" sizes="16x16"    href="img/img.jpeg">
+
   <link rel="manifest"                               href="app/themes/tde/assets/img/favicon/manifest.json">
   <meta name="msapplication-TileColor" content="#0071CE">
   <meta name="msapplication-TileImage" content="app/themes/tde/assets/img/favicon/ms-icon-144x144.png">
@@ -145,8 +150,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <div class="row">
     <div class="logo column shrink">
       <!-- <a class="logo-dark" href="index.html"><img src="app/themes/tde/assets/img/logo/eiss-logo-blue-v2.png" alt="DynamicElectric Power"></a> -->
-      <a class="logo-dark" href="index.html"><img src="img/img.jpeg" alt="DynamicElectricPower"  > <h4 >DynamicElectric Power</h4> </a>
-      <a class="logo-light" href="index.html"><img src="img/img.jpeg" alt="DynamicElectricPower" > <h4 >DynamicElectric Power</h4> </a>
+      <a class="logo-dark" href="index.html"><img src="img/img.jpeg" alt="DynamicElectricPower" style="height: 60px;" > <h4 >DynamicElectric Power</h4> </a>
+      <a class="logo-light" href="index.html"><img src="img/img.jpeg" alt="DynamicElectricPower" style="height: 60px;" > <h4 >DynamicElectric Power</h4> </a>
       <!-- <a class="logo-light" href="index.html"><img src="app/themes/tde/assets/img/logo/eiss-logo-white-v2.png" alt="DynamicElectric Power></a> -->
     </div>
     <div class="column menu-wrap">
