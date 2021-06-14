@@ -152,8 +152,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <div class="row">
     <div class="logo column shrink">
       <!-- <a class="logo-dark" href="index.html"><img src="app/themes/tde/assets/img/logo/eiss-logo-blue-v2.png" alt="DynamicElectric Power"></a> -->
-      <a class="logo-dark" href="index.html"><img src="img/img.jpeg" alt="DynamicElectricPower" style="height: 60px;" > <h4 >Dynamic Electric Power</h4> </a>
-      <a class="logo-light" href="index.html"><img src="img/img.jpeg" alt="DynamicElectricPower" style="height: 60px;" > <h4 >Dynamic Electric Power</h4> </a>
+      <a class="logo-dark" href="index.html"><img src="img/img.jpeg" alt="DynamicElectricPower" style="height: 60px;" > <h4 >DynamicElectric Power</h4> </a>
+      <a class="logo-light" href="index.html"><img src="img/img.jpeg" alt="DynamicElectricPower" style="height: 60px;" > <h4 >DynamicElectric Power</h4> </a>
       <!-- <a class="logo-light" href="index.html"><img src="app/themes/tde/assets/img/logo/eiss-logo-white-v2.png" alt="DynamicElectric Power></a> -->
     </div>
     <div class="column menu-wrap">
